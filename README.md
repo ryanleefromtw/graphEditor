@@ -1,5 +1,5 @@
 # graphEditor
-graphEditor is the final project of OOP at University of Groningen. I finished this project with @BuzzellDeng using git as version controll under MVC model. There are many functions this program providing :<br />
+graphEditor is the final project of OOP at University of Groningen. I finished this project with @BuzzellDeng using git as version control under MVC model. There are many functions this program providing :<br />
 <br />
 **This project can let users drag the rectangles in the mainframe.**
 
