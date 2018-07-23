@@ -8,8 +8,7 @@ before dragging
 dragging - before releasing mouse
 ![alt text](screenshots/drag_ing.png "draging")
 after dragging - after releasing mouse
-![alt text](screenshots/drag_after.png "after drag")
-
+![alt text](screenshots/drag_after.png "after drag")<br />
 <br />
 **This project can let users add new nodes on the mainframe.**
 
