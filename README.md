@@ -17,7 +17,7 @@ before adding
 adding - create a name by typing inside the edittext box
 ![alt text](screenshots/add_ing.png "draging")
 after adding 
-![alt text](screenshots/add_after.png "after drag")
+![alt text](screenshots/add_after.png "after drag")<br />
 
 <br />
 **This project can let users add edges between nodes.**
@@ -27,8 +27,7 @@ before adding
 adding - create a edge by selecting two nodes 
 ![alt text](screenshots/add_ing_edge.png "draging")
 after adding 
-![alt text](screenshots/add_edge_after.png "after drag")
-
+![alt text](screenshots/add_edge_after.png "after drag")<br />
 
 <br />
 **This project can let users delete nodes and the edge with it will automatically disappear.**
@@ -38,8 +37,7 @@ before deleting
 deleting - selecting the node that want to be deleted
 ![alt text](screenshots/delete_ing_edge.png "draging")
 after deleting 
-![alt text](screenshots/deleting_after.png "after drag")
-
+![alt text](screenshots/deleting_after.png "after drag")<br />
 
 <br />
 **This project can let users store the current state.**
